@@ -10,7 +10,7 @@ He3 client [Scoop][link-scoop] bucket.
 Via Scoop
 
 ```powershell
-scoop install "https://raw.githubusercontent.com/h8r-dev/he3-scoop/main/main.json"
+scoop install "https://raw.githubusercontent.com/h8r-dev/he3-scoop/main/he3.json"
 ```
 
 ## License
