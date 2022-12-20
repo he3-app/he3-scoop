@@ -1,0 +1,18 @@
+
+{
+    "homepage": "https://he3.app",
+    "version": "1.2.1",
+    "license": "MIT",
+    "description": "A Free, Modern Toolbox, Built for Developers",
+    "architecture": {
+        "64bit": {
+            "url": "https://he3-1309519128.cos.accelerate.myqcloud.com/1.2.1/He3_windows_installer_x64_1.2.1.exe",
+            "hash": "934e0f62492bbddd66376c9ebf46d3f9ff8c4020cea0a0f74057c2f0196ddc1e"
+        },
+        "32bit": {
+            "url": "https://he3-1309519128.cos.accelerate.myqcloud.com/1.2.1/He3_windows_installer_ia32_1.2.1.exe",
+            "hash": "96a2b51cd15f6f994c321fe4bc0e46f491772e0cb93b9d8d5479d7e5ec0f7d80"
+        }
+    },
+    "bin": "he3.exe"
+}
