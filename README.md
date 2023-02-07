@@ -11,7 +11,7 @@ Via Scoop
 
 ```powershell
 # run powershell with Administrator privileges
-scoop install "https://raw.githubusercontent.com/h8r-dev/he3-scoop/main/he3.json"
+scoop install "https://raw.githubusercontent.com/he3-app/he3-scoop/main/he3.json"
 ```
 
 ## License
