@@ -11,7 +11,7 @@ He3 client [Scoop][link-scoop] bucket.
 Please run the following commands in PowerShell.
 
 ```powershell
-scoop bucket add he3 https://github.com/he3-app/he3-scoop
+scoop bucket add he3-app https://github.com/he3-app/he3-scoop
 scoop install he3
 ```
 
