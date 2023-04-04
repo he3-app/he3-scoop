@@ -1,17 +1,17 @@
-# He3 client Scoop Bucket
+# Scoop Bucket for He3
 
 [![Software License][ico-license]](LICENSE.md)
 [![Repo Size][ico-github-repo-size]][link-github-repo-size]
 
 He3 client [Scoop][link-scoop] bucket.
 
-# Install
+## Install
 
-Via Scoop
+Please run the following commands in PowerShell.
 
 ```powershell
-# run powershell with Administrator privileges
-scoop install "https://raw.githubusercontent.com/he3-app/he3-scoop/main/he3.json"
+scoop bucket add he3 https://github.com/he3-app/he3-scoop
+scoop install he3
 ```
 
 ## License
