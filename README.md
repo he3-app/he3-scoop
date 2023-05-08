@@ -12,7 +12,7 @@ Please run the following commands in PowerShell.
 
 ```powershell
 scoop bucket add he3-app https://github.com/he3-app/he3-scoop
-scoop install he3
+scoop install he3 -d
 ```
 
 ## License
