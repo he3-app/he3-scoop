@@ -6,7 +6,7 @@
   "architecture": {
     "32bit": {
       "url": "https://he3-1309519128.cos.accelerate.myqcloud.com/2.0.20/He3_windows_installer_ia32_2.0.20.exe#/dl.7z",
-      "hash": "e6dd30f84f4ce87cabb8d2f13b9062e7150aa2f4e14d0171b3e6d50ad435e051",
+      "hash": "81872d5c3fc2288d75d61dd611d5d5e714cf10bc2005ef9bce9995514cbdbd9f",
       "pre_install": [
         "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-32.7z\" \"$dir\"",
         "Remove-Item \"$dir\\`$*\" -Recurse"
@@ -14,7 +14,7 @@
     },
     "64bit": {
       "url": "https://he3-1309519128.cos.accelerate.myqcloud.com/2.0.20/He3_windows_installer_x64_2.0.20.exe#/dl.7z",
-      "hash": "a3fd711034d2cfc112481096051c75f93e9c67e51e4999277b283216fec4b54d",
+      "hash": "d3147b9da0574d7a2496348ae51bcbccb361cbe17ede67fb1729c92af36fa3a3",
       "pre_install": [
         "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
         "Remove-Item \"$dir\\`$*\" -Recurse"
